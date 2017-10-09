@@ -32,7 +32,6 @@ Essentially the game involves moving a snake around a grid to eat squares in ord
 
 
 
-
 #### Final Thoughts
 
 So overall, I'm slightly worried about making this game just because at the same time I will need to be familiarising myself with how the new engine works. Plus the game is due in about a month so I will be making a start over the next couple of days and will have hopefully made some progress by the weekend.
