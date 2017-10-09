@@ -7,7 +7,7 @@ categories:
   - Blog
   - Low-Level Programming
   - Snake
-img: post01.jpg
+img: SnakeBanner.jpg
 thumb: c_thumb.jpg
 published: true
 ---
