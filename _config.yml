@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: bmoss656
-description: "Games development from an elder's persepective."
+title: 
+description: "Games Dev"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
 url: "https://bmoss656.github.io"
