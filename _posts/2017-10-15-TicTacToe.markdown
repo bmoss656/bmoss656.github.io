@@ -12,13 +12,13 @@ thumb: c_thumb.jpg
 published: true
 ---
 
-####Initial Thoughts
+#### Initial Thoughts
 
 So, as a design exercise on my games technology course, we spent some time looking at and redesigning the classic game tic tac toe in small groups (Group of 4, for us). 
 
 In order to see how we could change this classic game, we first had to play and analyse what was wrong with it. Obviously one of the clear things wrong (and also right with) with this game was the simplicity of it. For younger children and for a quick time passer, the simplicity of this game works just fine, but we were looking to add a bit more depth and longevity to it. 
 
-####Making Changes
+#### Making Changes
 
 We realized the basic issue was that if two players played perfectly, the game would always end in a draw because the tactics of the game are very simple. So we started with the obvious changes such as increasing the grid size, however this had no real impact on the game and it still ended the same way the original did, quick and always in a draw or win. 
 
