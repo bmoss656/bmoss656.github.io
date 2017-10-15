@@ -7,7 +7,7 @@ categories:
   - Blog
   - Play and Games  
   - Board Games
-img: TicTacToePic.jpg
+img: TicTacToePicture.jpg
 thumb: c_thumb.jpg
 published: true
 ---
