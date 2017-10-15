@@ -24,6 +24,6 @@ We realized the basic issue was that if two players played perfectly, the game w
 
 After a few changes like this we came up with the idea of limiting the number of players moves, aka it meant that the players could only place three noughts or crosses in total. However, the player was instead able to move their 3 pieces around after they had been placed but only to an adjacent grid square. This meant that instead of the grid filling up and ending in a draw, it added a bit more depth to the game and required a little more thought as to where you would put or move your pieces to. A basic example of how this works is shown below.
 
-![TicTacToe](https://github.com/bmoss656/bmoss656.github.io/new/master/assets/img/blog/TicTacToeDiagram.png)
+![TicTacToe](/assets/img/blog/TicTacToeDiagram.png)
 
 We initially had it so you could also move diagonally, however this caused an endless loop of blocking the win and therefore took what we were trying to do in extending the game a bit far! To solve this we simply took out the ability to move diagonally and this created a much more balanced game which we found to be much more enjoyable and engaging than the basic tic tac toe.
