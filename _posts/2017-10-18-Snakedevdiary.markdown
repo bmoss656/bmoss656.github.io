@@ -22,7 +22,7 @@ I had a rather good idea of how I wanted my game to play which meant I could mov
 
 [![https://gyazo.com/258922f34b0ca992579ea1719fd328f9](https://i.gyazo.com/258922f34b0ca992579ea1719fd328f9.png)](https://gyazo.com/258922f34b0ca992579ea1719fd328f9)
 
-#### Initial Planning
+#### Initial Movement
 
 So, after a little bit of time starting to get familiar with how the ASGE works, I started to implement some basic features such as rendering the playing scene and player sprite. I then sorted some basic movement for the player, currently the player sprite moves constantly and you can change the direction with wasd, this is shown below.
 
