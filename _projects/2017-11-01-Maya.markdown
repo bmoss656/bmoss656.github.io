@@ -4,7 +4,7 @@ title:  "Maya Orrery"
 date:   2017-11-01
 author: Brad Moss
 categories:
-- project
+- project, 
 - Maya
 img: maya.png
 thumb: thumb02.jpg
