@@ -18,15 +18,23 @@ published: true
 We were given our theme to create our own table top game last week, the theme being a current social, political, or economic issue. This is quite a broad theme and there are many different ways that you could approach it. The first thing we did as a group was just go through all the different ideas for games that we could initially think of, this was our initial list.
 
 
-- Border checkpoint		  	      - World war 3 
-- Journalism risk			          - Diplomat game 
-- Espionage				              - Escape a nation game 
-- Take down leader			        - Mercenary game 
-- Race to be eco 			          - Arms dealership game 
-- Doomsday game 			          - City builder with eco theme
-- Nuclear bluffing game 		  	- Become governor game 
-- Space exploration tycoon		  - Generic business economy 
-
+- Border checkpoint		  	      
+- Journalism risk			        
+- Espionage				              
+- Take down leader			       
+- Race to be eco 			          
+- Doomsday game 			         
+- Nuclear bluffing game 		  	
+- Space exploration tycoon	
+- Generic business economy 
+- Become governor game 
+- City builder with eco theme
+- Arms dealership game 
+- Mercenary game 
+- Escape a nation game 
+- Diplomat game 
+- World war 3 
+ 
 We all contributed to this list and we could have continued to grow it but we liked some of the ideas that we had so for now we decided to flesh out some of our preferred ideas and then come back and continue to add more ideas if none of the others worked out. Some of our ideas were slightly generic so the 3 games we initially liked the idea of and decided to grow upon were Border checkpoint, Journalism risk and Espionage. We took each one and broke it down a bit more in depth to see if we would be able to make a fun game out of the topic/concept. 
 
 #### Main Ideas
