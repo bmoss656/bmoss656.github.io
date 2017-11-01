@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: 
+title: Brad Moss
 description: "Games Dev"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
