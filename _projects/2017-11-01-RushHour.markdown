@@ -1,1 +1,19 @@
+---
+layout: project
+title:  "Rush Hour"
+date:   2017-11-01
+author: Brad Moss
+categories:
+- project
+img: Cocos.png
+thumb: thumb02.jpg
+carousel:
+- RushHour1.png
+- RushHour2.png
+tagged: C++, Cocos2D, Visual Studios
 
+---
+
+#### Cocos2D-Rush Hour
+
+Learning how to use a new framework/games engine is an important of being a games developer and this is a skill I have developed on my games technology course. An assignment during the first year that we had was to create a rush hour type game using the 2D game engine Cocos2D, we hadn’t used this before and learnt how to use it as we were making our game. Cocos uses C++ as its programming language and we used the IDE visual studios to develop our game. The game was basic with a few levels available to play, it had music and sound effects for different actions during gameplay and it featured some simple scene control and transitions. A main aspect of C++ that we had to use for creating this game was to correctly utilise and handle dynamic memory ourselves in order to create an enjoyable short game without any memory leaks or crashes.
