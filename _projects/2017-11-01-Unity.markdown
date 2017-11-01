@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Maya Orrery"
+title:  "Unity"
 date:   2016 
 author: Brad Moss
 categories:
