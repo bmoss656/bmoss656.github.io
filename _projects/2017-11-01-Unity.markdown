@@ -4,7 +4,7 @@ title:  "Unity"
 date:   2016 
 author: Brad Moss
 categories:
--- project
+- project
 img: UnityLogo.jpg
 thumb: thumb02.jpg
 carousel:
