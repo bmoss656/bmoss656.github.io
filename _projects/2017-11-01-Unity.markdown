@@ -1,0 +1,18 @@
+---
+layout: project
+title:  "Maya Orrery"
+date:   2016 
+author: Brad Moss
+categories:
+-- project
+img: maya.png
+thumb: thumb02.jpg
+carousel:
+- Render1.jpg
+- Render2.jpg
+- Render3.jpg
+
+---
+
+#### Unity
+Learning how to use Unity was a key part of the 3D game environments module that I did in first year. The main assignment that we had for it was to create a simple play space from a list of specifications in order to create a short interactive experience. The key parts of the experience were broken down into 3 sections, the first involved a tunnel system that had interactive lighting as you went through it. The second section allowed the player to fire an ‘explosion’ using a particle system for the physical look and using physics to allow the particle system to affect other objects in the world. The final section was a sort of firing range which had moving targets that shut down after the player hit them with a fired projectile. This project included using C# within the IDE visual studios.
