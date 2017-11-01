@@ -5,12 +5,12 @@ date:   2016
 author: Brad Moss
 categories:
 -- project
-img: maya.png
+img: UnityLogo.jpg
 thumb: thumb02.jpg
 carousel:
-- Render1.jpg
-- Render2.jpg
-- Render3.jpg
+- Unity1.png
+- Unity2.png
+- Unity3.png
 
 ---
 
