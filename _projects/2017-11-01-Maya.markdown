@@ -12,9 +12,8 @@ carousel:
 - Render1.jpg
 - Render2.jpg
 - Render3.jpg
-tagged: Maya
-client: 
-website: 
+tagged: Maya, Moddeling, Animation, Lighting
+
 ---
 
 #### The Assignment
