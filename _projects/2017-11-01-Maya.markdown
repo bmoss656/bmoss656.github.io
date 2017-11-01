@@ -5,6 +5,7 @@ date:   2016
 author: Brad Moss
 categories:
 - project
+- Maya
 img: maya.png
 thumb: thumb02.jpg
 carousel:
