@@ -16,7 +16,9 @@ published: true
 #### Collision and Movement
 
 Since my last post on here it has been about 10 days and I’ve spent a fair amount of time working on the game and trying to get the movement of the player working correctly. Last time I had the movement of just the first section of the snake working so the next step was obviously to try and get the second section of the snake to render/spawn after a collision with a collectable. The framework we are using does not have built in functions for creating bounding boxes or dealing with collision so I did some research of my own and worked out a way to manually handle a collision between objects. 
+
 <!--more-->
+
 The next step for me was to get a sprite to render after the collision occurs at the right position which depended on the direction of the player. I thought of a couple of different ways of doing this but the first and simplest way I thought of was having a Boolean for each direction which would allow you to render the next sprite ‘behind’ the player depending on which way you were moving, this worked effectively for me, so I used this method. The rendering of the sprite was simple enough, but getting it to move properly behind the player was more of a challenge... I spent a lot of time planning out how I would move the sprite effectively but when it got down to putting this into the code, it didn’t always work as planned. The simplicity of it eventually dawned on me, I just needed to make the second sprite move to wherever the player sprite previously was, and once I realised this I could get the movement of the second sprite working, as seen below.
 
 [![https://gyazo.com/f950cc7ee066132a8c41f6399dd1f0c5](https://i.gyazo.com/f950cc7ee066132a8c41f6399dd1f0c5.gif)](https://gyazo.com/f950cc7ee066132a8c41f6399dd1f0c5)
