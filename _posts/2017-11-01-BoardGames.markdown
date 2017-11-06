@@ -17,6 +17,7 @@ published: true
 
 We were given our theme to create our own table top game last week, the theme being a current social, political, or economic issue. This is quite a broad theme and there are many different ways that you could approach it. The first thing we did as a group was just go through all the different ideas for games that we could initially think of, this was our initial list.
 
+<!--more-->
 
 - Border checkpoint		  	      
 - Journalism risk			        
