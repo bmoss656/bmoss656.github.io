@@ -19,6 +19,8 @@ published: true
 <!--more-->
 
 In my last post I said that I wanted to create a sort of level/difficulty scale which could be altered in a settings menu. As I started to work on implementing this I changed my mind and rather than having an adjustable difficulty setting, I decided to just have different levels that you could progress through which would be harder to complete each time. In order to have something that changed as the game got more difficult, I decided to act upon one of my initial ideas that I had back in my first ideas diary, I added in additional obstacles that you had to avoid. The obstacles are prevalent in all the levels and they spawn in over time depending on your score, but in the harder levels there is a larger amount of them that you will have to avoid. As well as the obstacles, I also made it so that as you progress though each level your speed slightly increases, which can make the final level quite challenging compared to the first, and I feel that this difficulty scale adds to the initial gameplay. The screenshots below show how the final game looked.
+
+
 Main menu Screen:
 [![https://gyazo.com/bddca45e80d3df1d17f107f741eb5b7b](https://i.gyazo.com/bddca45e80d3df1d17f107f741eb5b7b.png)](https://gyazo.com/bddca45e80d3df1d17f107f741eb5b7b)
 
