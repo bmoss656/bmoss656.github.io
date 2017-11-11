@@ -1,0 +1,42 @@
+---
+layout: post
+title: Table Top Game- Idea development and research
+date: 2017-11-11
+author: Brad Moss
+categories:
+  - Blog
+  - Play and Games
+  - TTG Journal
+  
+img: BoardGame.jpg
+thumb: c_thumb.jpg
+published: true
+---
+
+#### Espionage
+
+As discussed in my previous entry about our table top game, we decided to focus on espionage for the concept around our game. The next step after deciding on our concept for the game was to plan out some of the key mechanics of the game in order to try to have a solid idea of how the game would play. We all contributed and discussed different ways that the game could be played, the mechanics of the game went through many iterations before we’d even play tested at all but we all agreed that the aim of the game would be to try and take down a corrupt organisation.
+
+<!--more-->
+
+From there we came up with the idea that there would be one main ‘case’ that everyone would be trying to solve, this was the win condition. But in addition to this main case, there would be smaller cases that pop up throughout the game that you can choose to try and solve for rewards that may help you towards your goal but cost some of your resources. This immediately added a sort of strategic element which meant there could be different play styles for different people and when this would become intertwined with the other mechanics of the game could make for some interesting gameplay.
+
+#### Research
+
+We had our initial idea and went away to think about some of the deeper mechanics of the game. I took it upon myself to do some research around this type of game and to make sure that nothing with this sort of gameplay already existed. What I found was slightly surprising, there were few recent board games around this sort of premise at all. There were a lot of games created before 1980 that revolved around espionage, a couple of examples being Spy Ring (1965) and Conspiracy (1973), these both took the idea of using intelligence and spies as gameplay mechanics but I couldn’t find any games that used a similar idea to ours recent or not.
+
+Another aspect I thought that I would research was the idea of luck vs skill. A lot of board games use dice rolls and randomness quite frequently, we all decided we didn’t want to have our game based around luck since it can quite quickly frustrate players when things go wrong for them. Instead we decided to try and take our game a more skill based route and I decided to do some research around the idea of randomness and skill in games just to make sure we were thinking along the right lines. 
+
+![Deterministic]( /assets/img/blog/Deterministic.jpg){:class="img-responsive"}
+
+ “In the deterministic game, the current game state has ties to every part of the entire timeline. Because of that, it is being pulled into a more complex and more unique shape. What this is illustrating is the way that context, when deterministically related, provides meaning to a game state.”  
+
+This came from an article about randomness and game design, it had some interesting ideas about luck and skill in games but it essentially agreed with the idea that randomness limits the scope of a game somewhat and as seen above in the picture taken from the article it shows how more complex a more deterministic and skill based game can be.
+
+#### Further development and playtesting
+
+We started to bring together all our ideas for our game into a cohesive thing that we would be able to sit down and have a game of so that we could see whether our idea was enjoyable to play and was something we could build off. We didn’t have a total understanding of all our rules yet but we had the basics of the game sorted enough so that we could get a gist of how it felt to play. I made a quick board for us to play our game on, its not what our final board will look like at all but it was just a base to play on and build off, an image of our playtest can be seen below.
+
+![Playtest]( /assets/img/blog/InitialPT.jpg){:class="img-responsive"}
+
+Playtesting your game frequently is very important as it allows you to see how certain mechanics you’ve thought of actually play out, and for us we found that some of our mechanics were a bit complex and convoluted. But we could change and adapt our rules on the go meaning it was a very useful experience for us and helped shape the core of our game a bit more.
