@@ -29,9 +29,9 @@ Another aspect I thought that I would research was the idea of luck vs skill. A 
 
 ![Deterministic]( /assets/img/blog/Deterministic.jpg){:class="img-responsive"}
 
- “In the deterministic game, the current game state has ties to every part of the entire timeline. Because of that, it is being pulled into a more complex and more unique shape. What this is illustrating is the way that context, when deterministically related, provides meaning to a game state.”  
+> In the deterministic game, the current game state has ties to every part of the entire timeline. Because of that, it is being pulled into a more complex and more unique shape. What this is illustrating is the way that context, when deterministically related, provides meaning to a game state. 
 
-This came from an article about randomness and game design, it had some interesting ideas about luck and skill in games but it essentially agreed with the idea that randomness limits the scope of a game somewhat and as seen above in the picture taken from the article it shows how more complex a more deterministic and skill based game can be.
+This came from an article ([Source](http://keithburgun.net/randomness-and-game-design/)) about randomness and game design, it had some interesting ideas about luck and skill in games but it essentially agreed with the idea that randomness limits the scope of a game somewhat and as seen above in the picture taken from the article it shows how more complex a more deterministic and skill based game can be.
 
 #### Further development and playtesting
 
