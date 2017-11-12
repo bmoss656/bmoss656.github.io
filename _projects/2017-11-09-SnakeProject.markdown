@@ -5,8 +5,8 @@ date:   2017-11-09
 author: Brad Moss
 categories:
 - project
-img: cpp.png
-thumb: thumb02.jpg
+img: SnakeTN.png
+thumb: Snake_thumb.png
 carousel:
 - Snake1.png
 - Snake2.png
