@@ -8,7 +8,7 @@ categories:
   - Low-Level Programming
   - Snake
 img: SnakeBanner.png
-thumb: c_thumb.jpg
+thumb: Snake_thumb.png
 published: true
 ---
 
