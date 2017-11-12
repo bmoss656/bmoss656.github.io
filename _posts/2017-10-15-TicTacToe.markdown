@@ -8,7 +8,7 @@ categories:
   - Play and Games  
   - Board Games
 img: TicTacToePicture.jpg
-thumb: thumb01.jpg
+thumb: BoardGameTN.png
 published: true
 ---
 
