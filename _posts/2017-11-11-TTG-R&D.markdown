@@ -9,7 +9,7 @@ categories:
   - TTG Journal
   
 img: BoardGame.jpg
-thumb: BoardG_thumb.png
+thumb: boardG_thumb.png
 published: true
 ---
 
