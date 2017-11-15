@@ -28,7 +28,7 @@ One article I did find that may prove useful, was from someone who created their
 
 >In Flixel, objects can be assigned a "scroll factor", which refers to how much the object should move in comparison to everything else.  Essentially, foreground objects get a scroll factor of (1,1) - meaning if the object's position increases by 20 pixels horizontally, that object will change position on the screen by 20 pixels.
 
-In the author of the articles game essentially the movement of the player character/sprite is what controls the spawning of the next part of the level and also influences the background movement too, I found this an interesting concept and one of my initial ideas was to have my game focused around momentum anyway and this technique may prove useful if I decide to go down that route.
+In the author of the ([articles](https://www.gamasutra.com/blogs/AdamSaltsman/20100929/6096/)) game essentially the movement of the player character/sprite is what controls the spawning of the next part of the level and also influences the background movement too, I found this an interesting concept and one of my initial ideas was to have my game focused around momentum anyway and this technique may prove useful if I decide to go down that route.
 
 #### Basic Game Ideas
 
