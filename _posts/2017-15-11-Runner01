@@ -1,0 +1,38 @@
+---
+layout: post
+title: Runner Game Blog post 01
+date: 15-11-2017
+author: Brad Moss
+categories:
+  - Blog
+  - Low-Level Programming
+  - Runner Game
+img: Runner.png
+thumb: Runner_thumb.png
+published: true
+---
+
+#### Game Number 2-Runner Game
+
+For our next game that we have to create, we have been given the brief of an “Endless runner game”, within that we are allowed to create whatever sort of game we want, and the theme of the game is entirely up to us. There are plenty of runner games already out there and for some research and ideas I played a few on itch.io, this gave me some insight as to the sort of games that have already been created and inspired a few ideas of my own.
+
+<!--more-->
+
+Since I’ve now had experience using the ASGE to create snake, it will definitely be easier to get the core of the game up and runner compared to last time. I know already how to work out movement of sprites and handling of transitions between scenes etc, all I need to work on in this regard compared to last time is just abstracting things into their own classes more, so OOP basically. The main difference about this game is that we need to have the runner game’s level generated via procedural generation, I have no prior experience with this other than from playing games that use it, this meant starting to do some research for it as I think it will be the main problem that I have.
+
+#### Procedural Generation Starting Research
+
+So my initial research around procedural generation didn’t necessarily give me a huge insight into how I’ll be able to code it, however it did let me understand how the basics of procedural generation works. The main thing that my research showed me was that before you start to actually code it, you must have key things that the level follows- AKA specific requirements that the generation of the level goes by. Part of these requirements will always include feasible yet interesting design, this essentially means the level is always playable and enjoyable, not random and unsolvable.
+
+One article I did find that may prove useful, was from someone who created their own runner game and was vaguely about their method of generation.
+
+>In Flixel, objects can be assigned a "scroll factor", which refers to how much the object should move in comparison to everything else.  Essentially, foreground objects get a scroll factor of (1,1) - meaning if the object's position increases by 20 pixels horizontally, that object will change position on the screen by 20 pixels.
+
+In the author of the articles game essentially the movement of the player character/sprite is what controls the spawning of the next part of the level and also influences the background movement too, I found this an interesting concept and one of my initial ideas was to have my game focused around momentum anyway and this technique may prove useful if I decide to go down that route.
+
+#### Basic Game Ideas
+
+So I haven’t come up with what I want the actual theme of the game to be yet, however I have had a good think about the mechanics of the game and some things I may want to include. My thoughts at this time are that you gain speed for as long as you don’t hit obstacles but hitting the obstacles resets your speed back to normal. Building from that mechanic I think I may have some sort of energy/life bar that depletes faster the slower you are moving, increasing the incentive to move fast and fluidly or perhaps checkpoints that you have to reach by a certain time. These would make use of delta time quite a lot so a bit more research into that will also be needed since I only used it very basically in my snake game.
+
+On top of this I will have things like collectables and perhaps other powers that your character has but for a base to work from this is what I will be aiming towards for now. My next tasks are to do some more research around procedural generation so I have a better understanding of that and will be able to start developing my game soon.
+
