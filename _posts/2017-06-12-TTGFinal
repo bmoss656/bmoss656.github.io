@@ -1,0 +1,48 @@
+---
+layout: post
+title: Table Top Game- Global Intervention
+date: 2017-06-12
+author: Brad Moss
+categories:
+  - Blog
+  - Play and Games
+  - TTG Journal
+  
+img: BoardGame.jpg
+thumb: boardG_thumb.png
+published: true
+---
+
+#### Global Intervention
+
+Our game has now evolved from Espionage (which was always a placeholder name) into Global Intervention! There were a few other names that we would have preferred but after some research they were already some sort of board game which led us to calling our game Global Intervention. The name is certainly not the only thing that has changed about our game since the last post. We have pretty much finished and finalised our game now, after finally adding in our victory and lose conditions along with some other interesting features.
+
+<!--more-->
+
+#### Iteration and development
+
+We’ve now had plenty of playtesting from ourselves and some from other people not involved in the development of our game. From our own playtesting and from our own ideas, we evolved our boss which we initially had at the idea of right at the beginning of development into something that states the win and lose conditions for a game on it and this is linked to a new feature called Crisis cards.
+
+Crisis cards are built off the idea I believe I mentioned in my previous post. They happen when you fail a certain amount of case cards per phase and they then play out during the next phase. My idea evolved into Crisis cards from us playing using different rules based around the idea and branched off from there into what it is now. 
+
+An issue that our playtesting did bring up was that we didn’t have a system in place for if two people wanted to solve a case at once. We were in the middle of a playtest when this issue arose and the idea of an auction system came up where players would bid their resources in order to solve a case, this seemed to work at first but turned into just whoever had the most resources won, which is not a strategic gameplay element. Instead of this I pitched the idea of a secret bidding system, where each player would choose an amount to put forward in secret and then both show their bid at the same time and whoever chose higher would win. This mechanic did work very well and added another layer of strategy to the game because you could say you wanted to solve a case just in order to make someone else pay more for a case in order to deplete their resources. This is something we are glad has made it into the final game.
+
+#### Outside Playtesting
+
+“Was there any rules you didn’t understand?”
+
+“Did anything feel tedious?”
+
+“What did you like about our game?”
+
+“Were there any mechanics you felt were overpowered or need improving upon?”
+
+“Is there anything you would change?”
+
+These are the questions that we asked our play testers, in order to give us some very specific feedback that we wanted to hear. We got some useful feedback from our playtesting and we used that to help us polish our game before we finished development on it. Ideally we would have had more outside people testing our game in order to get a wider range of feedback but we worked with what we had and felt that it was suitable enough for us to make some needed changes. An image of one of my personal outside play testing’s is shown below.
+
+![Playtest]( /assets/img/blog/OutsidePT.jpg){:class="img-responsive"}
+
+#### Finished Game
+
+Overall, through our development cycle I feel that we utilised iterative design patterns very well in order to add and change features and I think that this is what contributed to the very strategic game that we ended up with. To sum our game up, we created a simplistic game that you could understand reasonably quickly, yet beneath the simplicity lies much depth which you can learn over multiple play sessions and I feel this is exactly the sort of thing that is needed for the basis of a great board game.
