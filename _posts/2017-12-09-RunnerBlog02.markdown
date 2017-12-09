@@ -1,0 +1,33 @@
+---
+layout: post
+title: Runner Game Blog post 02
+date: 09-12-2017
+author: Brad Moss
+categories:
+  - Blog
+  - Low-Level Programming
+  - Runner Game
+img: Runner.png
+thumb: Runner_thumb.png
+published: true
+---
+
+#### Runner Game
+
+So, I haven’t made much progress on my runner game so far, there have been lots of other projects that I have had to be spending my time on and now unfortunately I don’t have a huge amount of time to try and get this game done. Since last time I did do some more research around procedural generation but unfortunately still don’t have a clear idea on how exactly I will implement it into my game yet but do have a slightly better grasp of the general idea of procedural generation.
+
+<!--more-->
+
+#### Getting The Basics Sorted
+
+I have spent too much time researching around procedural generation without actually starting any code for this game. So I instead decided to focus some of my time on getting the core of the game working to a point where I could implement the code for generation around my base code. Feedback I got on my last game, Snake, was that I needed to take a more object orientated approach to my code base. I already knew this myself because I hadn’t planned out my previous game with separate classes in mind but rather just dived straight in and tried to get it working.
+
+I knew how I wanted my class structure roughly to be before I started coding this time, I wanted to build a system that used states as classes rather than the main Game.cpp handling all the state logic. This meant that I would have different states for the main menu, playing the game etc. I started to implement this as the first step of creating my game as having the classes made and ready for wider use was essential to be able to make quick progress of the core of the game.
+
+I figured to start with I would simply try and get the player movement working correctly for a endless runner type game. This involved having constantly generating terrain and a background that was constantly moving to give the impression of movement. See, the sprite of my game won’t actually be moving but rather the terrain around it will be constantly moving to make it seem like that. The ASGE version that we are using this time is different to when I made snake so I had to relearn some aspects of it which perhaps slowed my progress slightly compared to if I could have just jumped right into creation. I started with simple transitions between scenes, which was fairly transferable from what I had done before, and built the base of my game from there.
+
+Getting the player movement working suitably just as something to build from was fairly non complex and I now have the core parts of my game working fairly smoothly ready to be improved upon in order to make my final game. The gif below shows where my game currently is.
+
+[![https://gyazo.com/dfc4ed99855fe77544109bff31c21e53](https://i.gyazo.com/dfc4ed99855fe77544109bff31c21e53.gif)](https://gyazo.com/dfc4ed99855fe77544109bff31c21e53)
+
+Hopefully by next time, I will have to started to implement some form of procedural generation as this is the main feature that will be causing me some problems and if I can start getting that implemented, I will be well on my way to completing my game.
