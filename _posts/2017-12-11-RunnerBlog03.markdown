@@ -1,0 +1,26 @@
+---
+layout: post
+title: Runner Game Blog post 03
+date: 11-12-2017
+author: Brad Moss
+categories:
+  - Blog
+  - Low-Level Programming
+  - Runner Game
+img: Runner.png
+thumb: Runner_thumb.png
+published: true
+---
+#### Slight Progress
+
+This is just a small update on my untitled runner game. I’ve made some quite good progress since last time and it is hopefully a step in the right direction towards my finished game. Right now a step in the right direction is pretty crucial as I don’t have very much time left in order to complete my game but I’m starting to think that I should be able to create something reasonably good within the time I have left.
+
+<!--more-->
+
+#### What progress?
+
+My progress consists of two things basically. The first thing being a realisation about procedural generation. I perhaps wouldn’t actually call it a realisation but more of a conclusion from my research around the topic. Basically I had this idea in my head that procedural generation was a series of very complex algorithms that I wouldn’t be able to get my head around in time to create my game. After my initial research as stated in a previous blog, this was broken slightly by the fact that I found out procedural generation need to follow rules in order to actually be procedural. I have done further research and according to many sources procedural generation can be as simple as basic random generation but with a set of rules that it follows. This makes it in fact not random because it is contained within those rules but instead procedural. After this realisation, it has definitely boosted my confidence of being able to do this, as I believe I will quite easily be able to have my level created according to a series of rules. I will start applying this to my game soon.
+
+Now, the other progress that I have made is on the game itself. Basically what I have done is made the player able to jump between platforms of various heights and they will land and continue to move at the height of the next platform. This is great because it’s a core part of the game and having this element very nearly completed really speeds up my progress thankfully. There is a gif below showing this in action.
+
+[![https://gyazo.com/891509997c7ca18863ad86c7fbcd399d](https://i.gyazo.com/891509997c7ca18863ad86c7fbcd399d.gif)](https://gyazo.com/891509997c7ca18863ad86c7fbcd399d)
