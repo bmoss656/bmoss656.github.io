@@ -7,7 +7,7 @@ categories:
   - Blog
   - Low-Level Programming
   - Runner Game
-img: Runner.png
+img: Runner2.png
 thumb: Runner_thumb.png
 published: true
 ---
