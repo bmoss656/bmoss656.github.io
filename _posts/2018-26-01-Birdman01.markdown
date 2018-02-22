@@ -1,0 +1,34 @@
+---
+layout: post
+title: Birdman Game- Blog01
+date: 26-01-2018
+author: Brad Moss
+categories:
+  - Blog
+  - Low-Level Programming
+  - Birdman Game
+img: BirdmanBack.jpg
+thumb: birdthumb.jpg
+published: true
+---
+#### Birdman
+
+The next game we have to create for LLP is a group project where the game will be based around the movie Birdman. The actual type of game that we have to create is for us to decide, it just has to be relevant to the movie and that is our only constraint ideas wise.  
+
+<!--more-->
+
+#### Possible Ideas
+
+As a group we discussed possible game ideas that related to the movie, we narrowed our ideas down to a few main ones, which are shown below. 
+
+•	Re-enacting theatre performance rhythm/ memory game. (Based on Bentley singalong in Sly 3) 
+
+•	Two overlapping states (Birdman/Riggan). Birdman and reality states that need to be manipulated in order to progress through levels. Each state influences the other? 
+
+•	Timed Reality state playthrough. Dream vs reality balancing game in which the player needs to overcome "events" in a reality simulation and dream states (based on movie events) in order to reach one of a number of endings. Choices from both states influence the games ending. 
+
+•	Brawler/beat em up type game where you play as birdman with super powers and have to try and stay in that state in order to keep the powers and make the game easier. Playing as Riggan would be harder and you would need to collect things to go back to birdman state. Playing as birdman you see yourself as a hero but when being forced back into Riggan mode it's clear you're not the hero.
+
+We felt like we had a few good ideas here game wise but after some thought we narrowed it down to either option 1 or option 4, we felt these two would be the better games and were more relatable to the film. Before making our final decision we also had to think about the coding aspect of the games since we were the ones actually making this game. We decided it would be easier for us to make a good game of the 4th option, the beat em up game, as we felt we had the skills to be able to create a relatively polished version of this game.
+
+The next step for us was to now refine our game idea some more such as thinking about the actual mechanics and other parts of the game. We then have to pitch our game in order for it to be ‘greenlit’ so we can start production on it.
