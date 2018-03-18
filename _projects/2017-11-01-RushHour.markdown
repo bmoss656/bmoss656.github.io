@@ -5,7 +5,7 @@ date:   2017-11-01
 author: Brad Moss
 categories:
 - project
-img: cocos2d.png
+img: Cocos_M.png
 thumb: thumb02.jpg
 carousel:
 - RushHour1.png
