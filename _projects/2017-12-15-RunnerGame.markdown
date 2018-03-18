@@ -5,7 +5,7 @@ date:   2017-12-15
 author: Brad Moss
 categories:
 - project
-img: RunnerTN.png
+img: Runner_M.png
 thumb: Runner_thumb.png
 carousel:
 - Runner-Title.png
