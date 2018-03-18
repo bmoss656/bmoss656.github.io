@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "Sentire- Beat-em up."
+date:   2018-05-03
+author: Brad Moss
+categories:
+- project
+img: SentireT.png
+thumb: birdman_thumb.png
+carousel:
+- Sentire1.png
+- Sentire2.png
+- Sentire3.png
+tagged: C++, ASGE, Visual Studios, OpenGL
+
+---
+#### Sentire Group Project
+
+For the third game in my second year low-level programming module, we were put into a group and were tasked with creating a game based around the film Birdman. We had total freedom to create any genre of game we desired, as long as it was within the theme of the film. My idea was to take a more metaphoric approach to the game and aim to deal with emotional themes dealt with within the film and package them in the form of a beat-em up style game that focussed on battling with your emotions. This was the idea we chose as a team and our final project didn’t quite get the underlying theme that we attempted due to some time conflicts, however what we had created as a group by the end was essentially its own small engine which we could then, given slightly more time, use to create a longer and more polished experience. The parts of the game we did make were a basic menu system, a simple hub world that would allow level selection and a basic level.
+
