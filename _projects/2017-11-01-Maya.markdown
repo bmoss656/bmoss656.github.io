@@ -6,7 +6,7 @@ author: Brad Moss
 categories:
 - project, 
 - Maya
-img: Maya2.png
+img: Maya_M.png
 thumb: thumb02.jpg
 carousel:
 - Render1.jpg
