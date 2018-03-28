@@ -1,0 +1,28 @@
+---
+layout: post
+title: Birdman Game- Blog03
+date: 23-02-2018
+author: Brad Moss
+categories:
+  - Blog
+  - Low-Level Programming
+  - Birdman Game
+img: BirdmanBack.jpg
+thumb: birdman_thumb.png
+published: true
+---
+#### Sentire
+
+We have made a lot of progress since my last post on our Birdman Game and it has now evolved to have a name, it is called ‘Sentire’. We are currently just getting into the proper implementation of our game and we are hoping to make good progress over the next week.
+
+<!--more-->
+
+#### UML
+
+Last time I said we would try and have our UML diagram done so we could just get into implementation and so that we all had a base to follow so we knew what was needed, the UML is shown below. It is perhaps a bit over complex for our game but once complete it should allow us to add more features quickly and easily.
+
+![UML]( /assets/img/blog/SentireUML.png){:class="img-responsive"}
+
+#### Next Step
+
+We also decided on some roles for who was going to tackle what part of the game. Since I’m better at the gameplay aspect I volunteered to focus on the player gameplay and the input manager since they are closely linked. I made a start this week with the player by creating a basic class with some simple logic for the movement and rendering. My plan is to focus on getting the more advanced player movement and jumping set up over the next few days and then move onto the input manager.
