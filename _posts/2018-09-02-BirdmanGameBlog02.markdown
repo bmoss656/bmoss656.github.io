@@ -8,7 +8,7 @@ categories:
   - Low-Level Programming
   - Birdman Game
 img: BirdmanBack.jpg
-thumb: birdman_thumb.jpg
+thumb: birdman_thumb.png
 published: true
 ---
 #### Moving Forward
