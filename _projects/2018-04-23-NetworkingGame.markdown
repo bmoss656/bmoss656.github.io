@@ -6,7 +6,7 @@ author: Brad Moss
 categories:
 - project
 img: DeadlockT.png
-thumb: birdman_thumb.png
+thumb: horde_thumb.png
 carousel:
 - Deadlock1.png
 - Deadlock2.png
