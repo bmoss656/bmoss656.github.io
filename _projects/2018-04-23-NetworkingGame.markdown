@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Deadlock- Networking Game"
-date:   2018-23-04
+date:   2018-04-23
 author: Brad Moss
 categories:
 - project
