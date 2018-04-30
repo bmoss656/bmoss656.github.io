@@ -29,11 +29,11 @@ Some parts of the UI were also greatly lacking as one member of the team was res
 
 #### Finishing Thoughts
 
-There was a few contributing factors towards us not being able to totally finish the networking aspect of the game and I’ll briefly discuss them here and the project in general.
+There was a few contributing factors towards us not being able to totally finish the networking aspect of the game and I’ll briefly discuss them here and the project in general. We used a trello board to manage who would do what tasks, it can be found here (However it is private, so you will need access to our repo to view it): ([Trello Board](https://github.com/UWEGames-LLP/networking-game-team-sentire/projects/1))
 
 A main issue was the team I was with. One member worked very hard and contributed a lot of work to the project and dealt with a large amount of the networking. Another member however contributed zero code towards the project and let us down in regards to some parts of the UI. This effectively left us as a two-person group and the project was too much for two people to handle in my opinion, especially considering most groups were made up of four people and the fact that I had mentioned my concerns about this group prior to the project start. It seemed unfair to me the way our group was handled, especially considering other groups were changed but its over with now, however it’s just hard not to think about how the project would have gone if we’d had a different team.
 
-Myself and my team mate working as hard as we could on the project, working non-stop on it over this weekend and practically not sleeping to try and get it finished- another couple of pairs of hands on the project would have helped. 
+Myself and my team mate worked as hard as we could on the project, working non-stop on it over this weekend and practically not sleeping to try and get it finished- another couple of pairs of hands on the project would have helped since we had been working on it over the previous weeks too, so it's not our all to do with the time we left ourselves.
 
 On a more personal note, I unfortunately couldn’t be perhaps as effective as I would have liked to be over the last week. This was due to having multiple pieces of coursework due which meant I was putting extra time in them to cover the lack of work from other teammates in those projects too, as well as over the last week suffering head pain ranging from mild to quite severe and debilitating which effected how productive I was able to be, and a lack of sleep from spending so many hours on the project did not help.
 
