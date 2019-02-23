@@ -1,0 +1,22 @@
+---
+layout: project
+title:  "VR Weight Representation"
+date:   2018-05-17
+author: Brad Moss
+categories:
+- project
+img: VR_TN.png
+thumb: thumb02.jpg
+carousel:
+- VR1.png
+- VR2.png
+- VR3.png
+tagged: Unity, C#, VR, Weight-Estimation, Group
+
+---
+#### Group VR Project
+For my ‘Play and Games’ module for second year, the second assignment involved creating a short demo within a group for a VR experience. The experience was for us to decide, so we chose to focus on accurate weight representation since VR often has most objects acting the same way in terms of weight, this often breaks emersion and limits how VR can be used. We hoped that what we would create could be used for more than just VR games and we hoped that it could possibly assist with physical rehabilitation as people would be able to feel like they are lifting heavier objects than they are, therefore potentially conditioning them before they are able to actual use real objects. Unfortunately, we did not have any way to test our theory that it could be used to help in this way but still created an effective demo.
+The demo we created involved placing three differently weighted cubes onto pedestals, each cube looked identical but behaved differently and gave different feedback when interacted with. The goal was to place the cubes in order of weight on the three pedestals to try and correctly guess the lightest to heaviest. The feedback from the cubes came in different forms, the main ones being having to use two hands on the heavier cube, increased haptic feedback and having to adjust how fast you moved your hands. The demo was mostly effective, and people seemed to accurately guess which cube was heaviest most of the time quite quickly. More time would be needed to fully refine this project, but no members of the group have our own VR headset so the project is left for now, however, left as a success.
+
+
+
