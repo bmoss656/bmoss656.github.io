@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "Dialogue System"
+date:   2017-12-07
+author: Brad Moss
+categories:
+- project
+img: dial_TN.png
+thumb: thumb02.jpg
+carousel:
+- Dial1.png
+- Dial2.png
+- Dial3.png
+tagged: Unreal, Blueprints, Unity, C#
+
+---
+#### Dialogue System
+During my second year of university, I was tasked with creating a dialogue system within two game engines. I chose to use Unreal and Unity to create my system, I started by creating a base very simple system within Unreal and then expanded upon this in order to create a more dynamic system that could be used in some sort of RPG game. I unfortunately did not have enough time to fully finish the UI for the Unreal version of the system, meaning it could have looked more visually pleasing but it worked effectively.
+
+For the Unity version of the system, I had a bit more experience from already creating the first system which led me to making a slightly more robust and visually pleasing system. I created a dialogue system that was dynamic and could be read in from text files that had unique formatting in order to help with implementation. Overall, I created two systems that worked effectively and I could potentially use them in later projects if necessary. 
