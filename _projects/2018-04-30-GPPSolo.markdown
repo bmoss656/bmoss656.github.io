@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "Gameplay Programming"
+date:   2018-04-30
+author: Brad Moss
+categories:
+- project
+img: GPP_TN.png
+thumb: thumb02.jpg
+carousel:
+- GPP1.png
+- GPP2.png
+- GPP3.png
+- GPP4.png
+tagged: Unity, C#, Gameplay, Third-Person Character
+
+---
+#### Gameplay Specialisation 
+In my second year of university, we were given the opportunity to choose where we wanted to focus on, choosing between engine or gameplay programming. I find gameplay programming more interesting and am more skilled in that area so chose the gameplay focused module. Over the first few months of the module we were tasked with creating the systems that make up a third person 3D platformer, for example we made a character controller, multiple power-ups/particle systems, dynamic-2D platforming sections and a combat system. This was made within Unity using C# to write all the gameplay features.
+I was very happy with what I created at the end, as I had a smooth character controller that functioned well and had created a good environment to test it in. I used a spline to created dynamic moving platforms which helped to test the jumping aspect and coded in enemy behaviour in the form of attacking slimes. The combat system worked well and I created a system that allowed you to lock on and target different enemies to attack. Overall, I found that after this was completed my gameplay programming skills were greatly enhanced and I felt much more confident coding different aspects of a game.
+	 
