@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "Group Platformer Game"
+date:   2018-04-26
+author: Brad Moss
+categories:
+- project
+img: GPPG_TN.png
+thumb: thumb02.jpg
+carousel:
+- GPPG1.png
+- GPPG2.png
+- GPPG3.png
+- GPPG4.png
+tagged: Unity, C#, Gameplay, Third-Person Character, Teamwork
+
+---
+#### Group Platforming Game 
+Continuing from the solo part of the gameplay programming module in year two of games technology, for the second part of the module we were tasked with expanding what we created as individuals by working in a team to create a full-fledged game. Upon being put into a team, we evaluated each of our individual work to decide what aspects we would each take into the main team game. The brief for the game was to create an open world platformer/RPG based in the same vein as Zelda: Breath of the Wild. 
+
+Our team worked well in creating our game, there were three of us and we assigned a section each of the game to work on. We ended up creating a game that had the player collecting orbs from different sections on the map and upon collecting them all, they would venture to the castle in order to stop the evil (evil deadly slimes) that lived there. We received over 80% for the game that we created so we were very happy with the product we created.
