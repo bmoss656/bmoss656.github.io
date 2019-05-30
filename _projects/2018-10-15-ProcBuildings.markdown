@@ -5,8 +5,8 @@ date:   2018-10-15
 author: Brad Moss
 categories:
 - project
-img: directx_TN.png
-thumb: directx_TN.png
+img: Directx_TN.png
+thumb: Directx_TN.png
 carousel:
 - Directx.png
 tagged: C++, DirectX11, Procedural, Unity
