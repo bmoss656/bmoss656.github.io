@@ -9,8 +9,8 @@ img: Trash_TN.png
 thumb: Trash_TN.png
 carousel:
 - Trash1.PNG
-- Trash2. PNG
-- Trash3. PNG
+- Trash2.PNG
+- Trash3.PNG
 tagged: C#, Unity, Commercial Games Development
 
 ---
