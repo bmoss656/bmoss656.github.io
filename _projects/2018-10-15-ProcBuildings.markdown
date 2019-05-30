@@ -8,7 +8,7 @@ categories:
 img: Directx_TN.png
 thumb: Directx_TN.png
 carousel:
-- Directx.PNG
+- Directx.png
 tagged: C++, DirectX11, Procedural, Unity
 
 ---
