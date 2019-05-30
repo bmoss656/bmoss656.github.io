@@ -5,8 +5,8 @@ date:   2018-12-05
 author: Brad Moss
 categories:
 - project
-img: cpp.png
-thumb: Terror_TN.jpg
+img: Terror_TN.png
+thumb: Terror_TN.png
 carousel:
 - Terror1.png
 - Terror2.png
