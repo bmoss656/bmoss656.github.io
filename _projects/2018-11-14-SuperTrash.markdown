@@ -5,7 +5,7 @@ date:   2018-11-14
 author: Brad Moss
 categories:
 - project
-img: cpp.png
+img: Trash_TN.png
 thumb: Trash_TN.png
 carousel:
 - Trash1.PNG
