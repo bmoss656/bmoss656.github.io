@@ -1,0 +1,24 @@
+---
+layout: project
+title:  "Soft-Body Physics"
+date:   2019-02-25
+author: Brad Moss
+categories:
+- project
+img: cpp.png
+thumb: softbody_TN.png
+carousel:
+- Softbody1.png
+- Softbody2.png
+- Softbody3.png
+tagged: C#, Unity, Soft-body
+
+---
+#### Soft-body Physics
+
+As the third and final task of my third-year module advanced technologies, we were tasked with creating a destruction physics system. I chose to focus specifically on soft-body physics and created a system within Unity that allowed 3D objects to be deformed. I built the system with vehicles in mind, so the system I created is best utilised in combination with a 3D vehicle. The system allows objects to be deformed by collisions and for vehicles, different parts of the vehicles can be detached through a health system I made that can be applied to the different parts. 
+
+As part of this system I also created a volume preservation demo. The volume preservation script that I wrote can be applied to 3D geometry and allows the object to keep its size and shape whilst being deformed. This means that objects do not get deformed into a barely recognisable shape which helps with the realism of the system.
+
+A video of the system in action can be seen here: https://youtu.be/EpGM7WQ9B_s
+
