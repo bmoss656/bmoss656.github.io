@@ -9,9 +9,9 @@ img: shadow_TN.png
 thumb: shadow_TN.png
 carousel:
 - Shadow1.PNG
-- Shadow2. PNG
-- Shadow3. PNG
-- Shadow4. PNG
+- Shadow2.PNG
+- Shadow3.PNG
+- Shadow4.PNG
 tagged: C#, Unity, Atari, Game-Jam
 
 ---
