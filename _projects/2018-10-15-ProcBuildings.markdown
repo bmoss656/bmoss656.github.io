@@ -8,13 +8,13 @@ categories:
 img: Directx_TN.png
 thumb: Directx_TN.png
 carousel:
-- Directx.png
+- Directx.PNG
 tagged: C++, DirectX11, Procedural, Unity
 
 ---
 #### Building Generation Tool
 
-A video showing the tool can be found here: https://youtu.be/PXA18nDiamA
+A video showing the tool can be found here: [YouTube Link](https://youtu.be/PXA18nDiamA)
 
 During a third-year module, advanced technologies, I was assigned with the task to create a tool within DirectX11 that could allow a user to generate buildings and export these buildings into Unity. This was my first time using DirectX which meant there was quite a steep learning curve at the beginning of the project but once this was overcome, the tool was created quite quickly.
 
