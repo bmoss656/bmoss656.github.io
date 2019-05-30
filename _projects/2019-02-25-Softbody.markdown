@@ -8,9 +8,9 @@ categories:
 img: softbody_TN.png
 thumb: softbody_TN.png
 carousel:
-- Softbody1.png
-- Softbody2.png
-- Softbody3.png
+- Softbody1.PNG
+- Softbody2.PNG
+- Softbody3.PNG
 tagged: C#, Unity, Soft-body
 
 ---
@@ -20,5 +20,5 @@ As the third and final task of my third-year module advanced technologies, we we
 
 As part of this system I also created a volume preservation demo. The volume preservation script that I wrote can be applied to 3D geometry and allows the object to keep its size and shape whilst being deformed. This means that objects do not get deformed into a barely recognisable shape which helps with the realism of the system.
 
-A video of the system in action can be seen here: https://youtu.be/EpGM7WQ9B_s
+A video of the system in action can be seen here:  [YouTube Link](https://youtu.be/EpGM7WQ9B_s)
 
