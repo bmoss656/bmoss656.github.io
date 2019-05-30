@@ -8,9 +8,9 @@ categories:
 img: Terror_TN.png
 thumb: Terror_TN.png
 carousel:
-- Terror1.png
-- Terror2.png
-- Terror3.png
+- Terror1.PNG
+- Terror2.PNG
+- Terror3.PNG
 tagged: C#, Unity, Game Jam
 
 ---
