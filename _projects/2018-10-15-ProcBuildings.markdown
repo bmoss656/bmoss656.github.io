@@ -5,7 +5,7 @@ date:   2018-10-15
 author: Brad Moss
 categories:
 - project
-img: cpp.png
+img: directx_TN.png
 thumb: directx_TN.png
 carousel:
 - Directx.png
