@@ -1,0 +1,23 @@
+---
+layout: project
+title:  "Gamifying Sustainability"
+date:   2019-06-28
+author: Brad Moss
+categories:
+- project
+img: EcoApp_TN.png
+thumb: EcoApp_TN.png
+carousel:
+- EcoApp1.png
+- EcoApp2.png
+- EcoApp3.png
+- EcoApp4.png
+tagged: C#, Unity, Sustainability, Android, Gamifciation
+
+---
+#### Combining gamification and sustainability
+Two of my main passions are game design and environmental sustainability, in my third year at university I was given the option to combine these passions in a module called creative technology project. This was module was my final year project and there were no limitations on what your project could be, I chose to create a gamified android application that looked at how we could encourage behaviour change regarding sustainability. 
+
+I made my application within Unity, the application involves encouraging people to do real life tasks in order to maintain a virtual environment. I created a dynamic environment for the application that reacts to how sustainable a user is being in real life, the idea behind this was that it can be difficulty for someone to visualise in real-life the negative/positive implications of their actions on the world. The dynamic environment would allow them to visualise these changes on a smaller scale and would allow them to draw comparisons to what is happening in the real world. The application also featured several other proven gamification techniques drawn from research that would lead to high engagement with the app and give them reasons to keep using it.
+
+Overall, the app that I created was very successful and has a huge amount of scope for ways it could be taken further. I have a number of features and different ways I would like to expand the app but obviously did not have the time during the set time to include everything and instead focussed on creating a polished game loop and experience.
