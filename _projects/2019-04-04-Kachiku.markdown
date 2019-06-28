@@ -1,0 +1,23 @@
+---
+layout: project
+title:  "Kachiku 64"
+date:   2019-04-04
+author: Brad Moss
+categories:
+- project
+img: Kachiku_TN.png
+thumb: Kachiku_TN.png
+carousel:
+- Kachiku1.png
+- Kachiku2.png
+tagged: C#, Unity, Commercial Games Development
+
+---
+#### Kachiku 64
+A third-year module called commercial games development allowed the entire cohort to work on an a pre-existing IP, the game Kachiku64 that was developed by PlayWest, UWE’s internal games studio. Kachiku64 is an ambitious game that can have up to 64 players on the screen at once competing to be the last one left alive, it takes a lot of inspiration from Bomber-man.
+
+The game was not finished by PlayWest and many of the systems were not fully complete, we as a year group were tasked with finishing off/improving upon what was already created in order to make a more fleshed out and functional version of the game. The cohort simulated a games studio by breaking off into teams and working on several different aspects of the game such as controls, gameplay and UI, to name a few. My team chose to focus on adding a new gameplay element to the game, crop-dusters/planes. This meant coding an entirely new control system, gameplay system for the in-air behaviour and balancing the new mechanic to work with the rest of the game. I was the technical lead for this project which meant I did the majority of the coding of the behaviour of the crop-dusters.
+
+There were some challenges from working as an entire cohort of nearly 40 people, but it gave me great experience of what working in a games studio would be like and the finished product that we managed to create was a polished well working game that we would go on to demo in front of many people at the university.
+
+Link to gameplay trailer my group made: https://youtu.be/4QVY9biPG3A
