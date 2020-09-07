@@ -2,7 +2,7 @@
 
 # Site settings
 title: Brad Moss
-description: "Games Dev"
+description: "Games/Software Dev"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
 url: "https://bmoss656.github.io"
