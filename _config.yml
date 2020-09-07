@@ -59,8 +59,8 @@ email: bmoss656@gmail.com
 # Members information. Shown on About page.
 members:
   - name: Brad Moss
-    position: Student
-    text: Passionate about gaming, learning how to become a games developer.
+    position: Graduate
+    text: Passionate about software/game design.
     
     social:
       - title: envelope #use for email address
@@ -68,4 +68,4 @@ members:
      
  
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Passionate Games Technology Student."
+about: "Passionate Programming and Games Technology Graduate"
