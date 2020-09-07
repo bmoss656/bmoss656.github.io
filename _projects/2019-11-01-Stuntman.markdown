@@ -1,0 +1,22 @@
+---
+layout: project
+title:  "Stuntman Project"
+date:   2019-11-01
+author: Brad Moss
+categories:
+- project
+img: StuntTN.png
+thumb: StuntTN.png
+carousel:
+- Stunt1.png
+- Stunt2.png
+- Stunt3.png
+tagged: C#, Unity, GameDesign, PC, Stuntman
+
+---
+#### Working On My Own Project
+Once I finished university, I couldn’t afford to stay living in Bristol which is the city I wanted to live in. Instead I had to move back home to Brighton and work on a plan to move back to Bristol. I went back to the job I had before university and began working full time saving money so that I would be able to move back and start my career in Bristol. During this time, I wanted to keep my skills fresh so decided to start creating my own game. 
+
+This was one of the few times I had total creative freedom over a project as during university most projects had restrictions that limited what I could do. However now I was able to do exactly what I wanted with my game. The idea of my game is something I had been thinking about during my time at uni too and was a project I always knew I would want to try and work on. Of course, finding enough time to put into a personal project while already working full time 5 days a week is difficult so the project made and is still making slow progress. On top of this, my laptop broke and I had to go a few months without any way of working on my project whilst I saved for a new workstation/pc. 
+
+The project has been enjoyable so far and being able to plan out the game exactly how I want is very exciting. However adding new aspects to the game does take a lot of time as I am only able to work a few hours here and there. This is a slow burner project and I’m still only working on the foundations but it will hopefully evolve into something I can be very proud of.
